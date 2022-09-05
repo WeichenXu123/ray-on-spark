@@ -1,6 +1,2 @@
-pelican
-pelican-sitemap
-BeautifulSoup4
-ezt
-PyYAML
-requests
+ray
+ray[debug,dashboard,tune,rllib,serve]
